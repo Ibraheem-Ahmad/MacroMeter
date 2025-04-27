@@ -1,10 +1,10 @@
 {
-  "DishName": "Hot dog with mustard",
-  "Weight_g": 75.0,
+  "DishName": "Chicken and Guacamole Bowl",
+  "Weight_g": 700.0,
   "Macros": {
-    "calories": 61.09,
-    "protein_g": 2.55,
-    "carbs_g": 11.58,
-    "fat_g": 0.53
+    "calories": 1420.23,
+    "protein_g": 44.89,
+    "carbs_g": 254.91,
+    "fat_g": 27.49
   }
 }

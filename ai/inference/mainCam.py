@@ -100,7 +100,7 @@ if __name__ == "__main__":
     import sys
     sys.argv = [
         "MacroCalculator.py",  # <-- dummy script name (ignored)
-        "ai\inference\Hot_dog_with_mustard.png",  # Image path
-        "75"  # Example dish weight in grams (you can change)
+        "ai\inference\chipotler.png",  # Image path
+        "700"  # Example dish weight in grams (you can change)
     ]
     main()
