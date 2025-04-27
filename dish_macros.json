@@ -1,0 +1,10 @@
+{
+  "DishName": "Hot dog with mustard",
+  "Weight_g": 75.0,
+  "Macros": {
+    "calories": 61.09,
+    "protein_g": 2.55,
+    "carbs_g": 11.58,
+    "fat_g": 0.53
+  }
+}

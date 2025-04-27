@@ -64,12 +64,13 @@ Example:
 
     # Parse the JSON string into a Python dict
     json_output = json.loads(response.candidates[0].content.parts[0].text)
-
+    print(json_output)
     return json_output
 
 if __name__ == "__main__":
     test_image_path = "ai\inference\chipotler.png"
-    result = recognize_ingredients(test_image_path,56)
+    weight = float(input("Enter the weight of the dish in grams: "))
+    result = recognize_ingredients(test_image_path, weight)
     print(result)
 
     
