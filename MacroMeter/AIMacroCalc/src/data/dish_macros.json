@@ -1,0 +1,10 @@
+{
+  "DishName": "Nasi Lemak",
+  "Weight_g": 750.0,
+  "Macros": {
+    "calories": 1685.17,
+    "protein_g": 42.29,
+    "carbs_g": 140.39,
+    "fat_g": 96.85
+  }
+}

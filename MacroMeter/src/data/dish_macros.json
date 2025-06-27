@@ -1,0 +1,10 @@
+{
+  "DishName": "Pizza",
+  "Weight_g": 750.0,
+  "Macros": {
+    "calories": 1990.5,
+    "protein_g": 120.49,
+    "carbs_g": 130.59,
+    "fat_g": 109.11
+  }
+}
